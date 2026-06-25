@@ -1,4 +1,4 @@
-project_name = "dev"
+project_name = "dev_new"
 
 vpc_cidr = "10.0.0.0/16"
 
